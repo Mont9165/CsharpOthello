@@ -1,0 +1,59 @@
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojResolveAssemblyReference.cache
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.Cache
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+D:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojAssemblyReference.cache
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.cache
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.CoreCompileInputs.cache
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+E:\Dropbox\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojResolveAssemblyReference.cache
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.Cache
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+D:\work\講義\2019\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojAssemblyReference.cache
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.cache
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.CoreCompileInputs.cache
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+C:\Users\uwano\Dropbox\講義\実験3\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojAssemblyReference.cache
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.cache
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.CoreCompileInputs.cache
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+C:\Users\kosei\source\repos\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojAssemblyReference.cache
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.cache
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.CoreCompileInputs.cache
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+E:\実験III　上野\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.exe
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\bin\Debug\NNCT_4IExp_リバーシ.pdb
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csprojAssemblyReference.cache
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.MainForm.resources
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.GenerateResource.cache
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp.csproj.CoreCompileInputs.cache
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.exe
+C:\Csharp\exp3_gui\NIT_Nara_4IExp\obj\x86\Debug\NNCT_4IExp_リバーシ.pdb
